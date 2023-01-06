@@ -34,7 +34,7 @@ gltfLoader.setDRACOLoader(dracoLoader)
  */
 
 const bakedTexture = textureLoader.load(
-    'baked.jpg'
+    'baked_2.jpg'
 )
 bakedTexture.flipY = false
 bakedTexture.encoding = THREE.sRGBEncoding

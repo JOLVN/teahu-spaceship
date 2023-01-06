@@ -39,7 +39,7 @@ gltfLoader.setDRACOLoader(dracoLoader)
  */
 
 const bakedTexture = textureLoader.load(
-    'baked_spaceship.jpg'
+    'baked.jpg'
 )
 bakedTexture.flipY = false
 bakedTexture.encoding = THREE.sRGBEncoding
